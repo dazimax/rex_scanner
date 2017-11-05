@@ -6,6 +6,7 @@ $logData = array();
 $isAvilable = false;
 $logData = '<b>Rex IDS Scanner v1.0</b>'.'<br>';
 $logData .= '<b>============================================</b>'.'<br>';
+$logData .= '<b>SERVER IP : '.$_SERVER['SERVER_ADDR'].'</b>'.'<br>';
 $logData .= '<b>'.date('Y-m-d H:i:s A').': scan started</b>'.'<br>';
 $logData .= '<b>============================================</b>'.'<br>';
 $filepaths = null;
