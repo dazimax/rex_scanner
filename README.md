@@ -4,7 +4,7 @@ PHPIDS - Rex Scanner (PHP-Intrusion Detection System) is a simple script which c
 
 ## Contributions
 
-If you would like to contribute, please open a pull request.
+If you would like to contribute, please open a pull request to branch feature-development.
 
 ## Credits
 
