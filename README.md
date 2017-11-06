@@ -8,5 +8,5 @@ If you would like to contribute, please open a pull request to branch feature-de
 
 ## Credits
 
-The project was started by Dasitha Abeysinghe <dazimax@gmail.com> and welcome all the white hackers to upgrades the script for new versions.
+The project was started by Dasitha Abeysinghe <dazimax@gmail.com> and welcome all the white hat hackers to upgrades the script for new versions.
 
